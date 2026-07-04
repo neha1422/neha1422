@@ -74,8 +74,6 @@ public:
 
 📄 AI Research Paper — **Under Review (Wiley)**
 
-🎓 Reliance Foundation Undergraduate Scholar
-
 💻 400+ DSA Problems Solved
 
 ---
