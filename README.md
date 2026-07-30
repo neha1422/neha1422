@@ -1,15 +1,22 @@
 <div align="center">
 
-# Hi, I'm Neha Mongia 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Neha%20Mongia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20•%20Full-Stack%20Developer%20•%20Researcher&descSize=18&descAlignY=55)
 
-### AI Researcher • Full-Stack Developer • Backend Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Generative+AI+%2B+RAG+%2B+LLMs;Full-Stack+Developer;Researching+Explainable+Healthcare+AI;Always+Learning+Always+Building" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+IGDTUW;AI+Researcher+%7C+Full-Stack+Developer;Building+Scalable+AI+Systems;Backend+Engineering+%7C+Generative+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neha-mongia-140506nn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehamongia14@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/notsurewho14/)
-[![Code360](https://img.shields.io/badge/Code360-0056D2?style=for-the-badge)](https://www.naukri.com/code360/profile/a201e6c6-6762-4d00-8e7f-817a4c524318)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nehamongia14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -20,27 +27,30 @@
 ```cpp
 class NehaMongia {
 public:
-    string education = "B.Tech Computer Science @ IGDTUW";
+    string education =
+        "B.Tech Computer Science Engineering @ IGDTUW";
 
     vector<string> interests = {
         "Artificial Intelligence",
-        "Backend Engineering",
-        "Distributed Systems",
-        "Full-Stack Development"
+        "Machine Learning",
+        "Generative AI",
+        "Retrieval-Augmented Generation",
+        "Backend Development",
+        "System Design"
     };
 
     vector<string> building = {
-        "AI Applications",
-        "Retrieval-Augmented Generation (RAG)",
-        "Scalable Web Platforms",
-        "Research Systems"
+        "AI Disaster Preparedness Platforms",
+        "Multilingual RAG Systems",
+        "Healthcare AI Solutions",
+        "Scalable Full-Stack Applications"
     };
 
     string currentFocus =
-        "Building AI systems that solve real-world problems.";
+        "Building reliable AI systems using LLMs, RAG, and scalable backend technologies.";
 
     string motto =
-        "Research. Build. Improve.";
+        "Learn. Build. Impact.";
 };
 ```
 
@@ -48,112 +58,165 @@ public:
 
 # 🚀 Featured Projects
 
-## 🚨 RakshakApp — AI-Powered Disaster Preparedness Platform
+## 🚨 RakshakApp — AI Disaster Preparedness Platform
 
-> Intelligent disaster preparedness platform integrating **AI**, **GIS**, **Voice Assistance**, **SOS Alerts**, **Risk Maps**, and **Multilingual Learning** for emergency preparedness.
+AI-powered disaster preparedness platform helping citizens stay prepared during emergencies.
 
-**Tech Stack**
+### Features
 
-`React` `Node.js` `PostgreSQL` `Firebase` `Google Maps API`
-`Leaflet.js` `Twilio` `Whisper ASR` `gTTS`
+- 🤖 AI Voice Assistant
+- 🌍 Google Maps Integration
+- 📍 Punjab Risk Maps
+- 🔐 Firebase Authentication
+- 🗄 PostgreSQL Database
+- ☎️ Twilio SOS Alerts
+- 🎤 Whisper Speech Recognition
+- 🔊 gTTS Voice Guidance
+- 👨‍🏫 Teacher Dashboard
+- 👩‍🎓 Student Dashboard
+- 🎮 Gamified Learning Modules
 
-🌐 **Live Demo:** https://rakshakapp.vercel.app/
+### Tech Stack
 
-📂 **GitHub:** https://github.com/neha1422/RakshakApp
-
----
-
-## 🌾 KrishiNyay AI — Multilingual RAG Platform for Agricultural Intelligence
-
-> AI-powered Retrieval-Augmented Generation platform using **MiniLM embeddings**, **ChromaDB**, and **Gemini** to answer farmer queries from trusted government documents.
-
-**Tech Stack**
-
-`Python` `MiniLM` `ChromaDB`
-`Gemini API` `LangChain` `Streamlit`
-
-🎥 **Demo:** https://drive.google.com/file/d/1D40GksksFM2ZqF7tTfEZarYmhbSFJyvG/view
-
-📂 **GitHub:** https://github.com/neha1422/KrishiNyay
-
----
-
-## 🧠 LexiBloom — AI Accessibility Platform
-
-> Accessibility platform for dyslexic and ADHD learners integrating **OCR**, **Speech Recognition**, **Text-to-Speech**, and **AI-assisted reading support**.
-
-**Tech Stack**
-
-`React`
-`Express`
-`Whisper`
-`OCR`
-`AI APIs`
-
-🌐 **Live Demo:** https://lexibloom.vercel.app/
-
-📂 **GitHub:** https://github.com/neha1422/LexiBloom
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps)
 
 ---
 
-# 🏆 Highlights
+## 🌾 KrishiNyay AI
 
-🏅 AI Research Paper **Under Review (Wiley)**
+AI-powered multilingual agricultural assistant using Retrieval-Augmented Generation.
 
-🥈 Runner-Up — **SemiXthon 2026** @ Vinod Dham Center
+### Features
 
-🏅 2nd Place — **4th IoT Research Showcase**
+- 🌱 Government Agriculture Knowledge Base
+- 🔍 Hybrid Search
+- 🧠 Gemini-powered Responses
+- 📚 ChromaDB Vector Database
+- 🌐 Multilingual Support
+- 📊 Prometheus Monitoring
+- 📈 Grafana Dashboard
 
-🏅 Top 20 — **HackArena X Microsoft**
+### Tech Stack
 
-💻 Solved **400+ DSA Problems**
-
----
-
-# ⚙️ Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat)
+![Python](https://img.shields.io/badge/Python-blue?style=flat)
 
 ---
 
-### Frameworks & Libraries
+## 🩺 Explainable AI for PCOS Detection
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square)
+Research Project @ Delhi Technological University
 
----
+### Highlights
 
-### AI & ML
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+- 94.6% Accuracy
+- 0.987 ROC-AUC
+- SHAP Explainability
+- LIME Explainability
+- EfficientNet-B4
+- XGBoost
+- Random Forest
+- Under Review (Wiley)
 
 ---
 
-### Tools
+# 🏆 Achievements
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+🥈 Runner-Up — SemiXthon 2026
+
+🥈 2nd Place — IoT Research Showcase
+
+🏅 Top 20 — HackArena X Microsoft
+
+🏅 Top 33 — Smart Delhi Ideathon
+
+💻 Solved 400+ DSA Problems
+
+📄 Research Manuscript Under Review
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
+- System Design
+- Docker
+- Kubernetes
+- Cloud Deployment
+
+---
+
+# 🎯 Leadership
+
+### Director General — MUN Circle IGDTUW
+
+- Organized State-Level MUN
+- Led 200+ Member Society
+- 14+ Best Delegate / Special Mention Awards
+
+### Director of Corporate Relations — Enactus IGDTUW
+
+- Represented IGDTUW at Nationals
+- Organized Under25 Summit
+- Led Sponsorships & Corporate Outreach
+
+---
+
+# ⚙ Tech Stack
+
+## Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+## Backend
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+
+## AI
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+
+![Gemini](https://img.shields.io/badge/Gemini-blueviolet?style=for-the-badge)
+
+![Whisper](https://img.shields.io/badge/Whisper-black?style=for-the-badge)
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
@@ -161,41 +224,42 @@ public:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=neha1422&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=neha1422&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha1422&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- Distributed Systems
-- Backend Engineering
-- System Design
-- Large Language Models
-- Retrieval-Augmented Generation
-- Scalable AI Systems
-
----
-
-# 🤝 Let's Connect
-
-I'm always excited to collaborate on projects involving:
-
-- Artificial Intelligence
-- Full-Stack Development
-- Backend Engineering
-- Research
-- Open Source
+# 📫 Connect With Me
 
 <div align="center">
 
-### ⭐ Building intelligent systems that create meaningful impact.
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=neha1422&style=flat-square&color=6C63FF)
+<a href="mailto:nehamongia14@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ "Building intelligent AI systems that create real-world impact."
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer)
 
 </div>
