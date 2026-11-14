@@ -73,7 +73,7 @@ I'm **Neha**, a **B.Tech Computer Science Engineering student at IGDTUW, New Del
   <h3><a href="https://github.com/neha1422/KrishiNyay">KrishiNyay AI</a></h3>
   <strong>Multilingual RAG for agricultural intelligence</strong>
   <p>MiniLM embeddings, ChromaDB, hybrid retrieval, trusted government sources, workflow-based routing, and Gemini-generated answers. <strong>250+ multilingual evaluation cases</strong>, with Prometheus and Grafana observability.</p>
-  <a href="https://drive.google.com/file/d/1D40GksksFM2ZqF7tTfEZarYmhbSFJyvG/view?usp=sharing">Watch demo</a>
+  <a href="https://rag-project-flax-six.vercel.app/">Live website</a>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/neha1422/RakshakApp">RakshakApp</a></h3>
