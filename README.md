@@ -161,18 +161,33 @@ Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, 
 
 ---
 
-## `git status --live`
+
+<h2 align="center">git status --live</h2>
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=neha1422&bg_color=000000&color=FFB3DE&line=FFB3DE&point=FF2E97&area=true&hide_border=false&radius=16&custom_title=commit%20stream" alt="GitHub activity graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=neha1422&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFB3DE&text_color=FFFFFF&icon_color=FFB3DE"
+    alt="Neha's GitHub Statistics"
+    width="48%"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=neha1422&show_icons=true&hide_border=false&bg_color=000000&title_color=FFB3DE&text_color=FFFFFF&icon_color=FFB3DE&border_color=FFB3DE" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha1422&layout=compact&hide_border=false&bg_color=000000&title_color=FFB3DE&text_color=FFFFFF&border_color=FFB3DE" alt="Most-used GitHub languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha1422&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFB3DE&text_color=FFFFFF"
+    alt="Most Used Languages"
+    width="48%"
+  />
 
-<sub>Live cards depend on third-party services and may occasionally be unavailable.</sub>
+  <br/><br/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=neha1422&bg_color=0D1117&color=FFB3DE&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
+    width="95%"
+  />
 
 </div>
+
 
 ---
 
