@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Neha Mongia 
+# Neha Mongia
 
 <sup>AI/ML Researcher &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Cloud & Backend Engineering</sup>
 
@@ -13,7 +13,7 @@
   neha@dev:~$ ./build --something-meaningful
   > researching intelligent systems
   > engineering real-world solutions
-  > shipping ideas into reality ✦
+  > shipping ideas into reality
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=FFB3DE&center=true&vCenter=true&width=600&height=35&lines=%E2%96%B8+system+online+%E2%80%94+welcome+to+my+corner+of+GitHub;%E2%96%B8+AI%2FML+%C2%B7+RAG+%C2%B7+Full-Stack+%C2%B7+Cloud+%C2%B7+IoT;%E2%96%B8+I+research.+I+build.+I+ship.)](https://github.com/neha1422)
@@ -27,18 +27,18 @@
 
 ---
 
-## `whoami` ✧
+## `whoami`
 
 I'm **Neha**, a **B.Tech Computer Science Engineering student at IGDTUW, New Delhi (2024–2028)**. I build multilingual AI applications, full-stack products, serverless backends, and connected hardware systems. My research explores **explainable multimodal AI for healthcare**, and I love turning complex ideas into practical, usable products.
 
-- 🔬 **AI/ML Research Intern @ DTU** — multimodal PCOS classification with **94.6% accuracy** and **0.987 ROC-AUC**; manuscript **under review** at *Biomedical Signal Processing and Control*.
-- 🏆 **Nutanix NextGen Innovators Scholar 2026** — **1 of 10 recipients in India**.
-- 🛠️ Building across **RAG · Generative AI · Full-Stack · Cloud · Backend · IoT**.
-- 🧩 Solved **400+ DSA problems** across coding platforms.
-- 🌸 Motto: **I research. I build. I ship.**
+- **AI/ML Research Intern @ DTU** — multimodal PCOS classification with **94.6% accuracy** and **0.987 ROC-AUC**; manuscript **under review** at *Biomedical Signal Processing and Control*.
+- **Nutanix NextGen Innovators Scholar 2026** — **1 of 10 recipients in India**.
+- Building across **RAG · Generative AI · Full-Stack · Cloud · Backend · IoT**.
+- Solved **400+ DSA problems** across coding platforms.
+- Motto: **I research. I build. I ship.**
 
 <div align="center">
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ my toolbox ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+<sub>--------------------------- my toolbox ---------------------------</sub>
 <br/><br/>
 
 ![C](https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=A8B9CC)
@@ -63,40 +63,40 @@ I'm **Neha**, a **B.Tech Computer Science Engineering student at IGDTUW, New Del
 ![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Google Colab](https://img.shields.io/badge/Colab-0f172a?style=flat-square&logo=googlecolab&logoColor=F9AB00)
 
-<sub>`✧` Also working with MiniLM · ChromaDB · Hybrid Retrieval · XGBoost · EfficientNet-B4 · Cohere · Cloud Firestore · ESP32</sub>
+<sub>Also working with MiniLM · ChromaDB · Hybrid Retrieval · XGBoost · EfficientNet-B4 · Cohere · Cloud Firestore · ESP32</sub>
 </div>
 
 ---
 
-## `ls ~/shipped` ✦
+## `ls ~/shipped`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [KrishiNyay AI](https://github.com/neha1422/KrishiNyay)
+### [KrishiNyay AI](https://github.com/neha1422/KrishiNyay)
 **Multilingual RAG for agricultural intelligence**
 
 MiniLM embeddings, ChromaDB, hybrid retrieval, trusted government sources, workflow-based routing, and Gemini-generated answers. **250+ multilingual evaluation cases**, with Prometheus and Grafana observability.
 
-[**Watch demo ↗**](https://drive.google.com/file/d/1D40GksksFM2ZqF7tTfEZarYmhbSFJyvG/view?usp=sharing)
+[**Watch demo**](https://drive.google.com/file/d/1D40GksksFM2ZqF7tTfEZarYmhbSFJyvG/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚨 [RakshakApp](https://github.com/neha1422/RakshakApp)
+### [RakshakApp](https://github.com/neha1422/RakshakApp)
 **Cloud-based disaster preparedness platform**
 
 React, Node.js, Firebase Authentication, Cloud Firestore, Vercel Functions, GIS risk maps, multilingual learning, real-time alerts, quiz analytics, and secure role-based access.
 
-[**Live website ↗**](https://rakshakapp-cloud.vercel.app/)
+[**Live website**](https://rakshakapp-cloud.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📖 LexiBloom
+### LexiBloom
 **AI-powered accessibility for dyslexic learners**
 
 An accessibility-focused learning platform featuring speech recognition, OCR, text-to-speech, and text simplification.
@@ -106,7 +106,7 @@ An accessibility-focused learning platform featuring speech recognition, OCR, te
 </td>
 <td width="50%" valign="top">
 
-### 🌱 BioDegradeX
+### BioDegradeX
 **IoT-powered smart compost monitoring**
 
 ESP32-based monitoring with temperature, humidity, soil-moisture, and gas sensors, connected to a visualization dashboard.
@@ -119,7 +119,7 @@ ESP32-based monitoring with temperature, humidity, soil-moisture, and gas sensor
 
 ---
 
-## `cat research.log` 🔬
+## `cat research.log`
 
 **AI/ML Research Intern — Delhi Technological University** · May–July 2026  
 *Explainable Multimodal AI Framework for PCOS Detection*
@@ -135,22 +135,22 @@ ESP32-based monitoring with temperature, humidity, soil-moisture, and gas sensor
 Combined clinical ML (Logistic Regression, Deep SVM, Random Forest, XGBoost, meta-ensemble) with an EfficientNet-B4 ultrasound pipeline. **Research manuscript under review** at *Biomedical Signal Processing and Control*.
 
 **Generative AI & Prompt Engineering Intern — IGDTUW** · June–July 2025  
-Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, Flask, and Cohere, achieving **88% accuracy**. [View repository ↗](https://github.com/neha1422/pcosdetector1)
+Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, Flask, and Cohere, achieving **88% accuracy**. [View repository](https://github.com/neha1422/pcosdetector1)
 
 ---
 
-## `git log --oneline --wins` 🏆
+## `git log --oneline --wins`
 
 <div align="center">
 
 | Recognition | Milestone |
 |:--|:--|
-| 🌸 **Nutanix NextGen Innovators Scholarship 2026** | **1 of 10** recipients in India |
-| 🥈 **SemiXthon 2026** | Runner-Up · 500+ participants |
-| 🥈 **4th IoT Research Showcase** | 2nd Place |
-| 💗 **HackArena × Microsoft** | Top 20 · 1000+ participants |
-| 🌱 **Smart Delhi Ideathon** | Top 33 · 900+ teams |
-| 💻 **Problem Solving** | 400+ DSA problems |
+| **Nutanix NextGen Innovators Scholarship 2026** | **1 of 10** recipients in India |
+| **SemiXthon 2026** | Runner-Up · 500+ participants |
+| **4th IoT Research Showcase** | 2nd Place |
+| **HackArena × Microsoft** | Top 20 · 1000+ participants |
+| **Smart Delhi Ideathon** | Top 33 · 900+ teams |
+| **Problem Solving** | 400+ DSA problems |
 
 </div>
 
@@ -161,7 +161,7 @@ Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, 
 
 ---
 
-## `git status --live` 📊
+## `git status --live`
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, 
 
 <div align="center">
 
-### let's build something. ♡
+### let's build something.
 
 <sub>New Delhi, India &nbsp;·&nbsp; [nehamongia14@gmail.com](mailto:nehamongia14@gmail.com) &nbsp;·&nbsp; `neha@dev$ _`</sub>
 
@@ -192,7 +192,7 @@ Built an LLM-powered PCOS decision-support system using XGBoost, Random Forest, 
 
 <br/>
 
-<sub>✧ researching · building · shipping ✧</sub>
+<sub>✧ researching · building · shipping</sub>
 
 </div>
 
