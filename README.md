@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Neha Mongia ♡
+# Neha Mongia 
 
 <sup>AI/ML Researcher &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Cloud & Backend Engineering</sup>
 
